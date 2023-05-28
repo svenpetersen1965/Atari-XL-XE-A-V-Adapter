@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="Atary_AV_Adapter_v1_Label.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="4"
+     inkscape:cx="255.125"
+     inkscape:cy="240.375"
+     inkscape:window-width="1989"
+     inkscape:window-height="1401"
+     inkscape:window-x="336"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer2" />
+  <defs
+     id="defs2">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath838">
+      <path
+         d="m 11397,8117 h 1939 v 2412 H 11397 V 8117"
+         id="path836" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath912">
+      <path
+         d="M 0,0 H 19842 V 14031 H 0 V 0"
+         id="path910" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath972">
+      <path
+         d="M 0,0 H 19842 V 14031 H 0 V 0"
+         id="path970" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath984">
+      <path
+         d="M 0,0 H 19842 V 14031 H 0 V 0"
+         id="path982" />
+    </clipPath>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Send"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Send"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1039" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker88685"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Send"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path88683" />
+    </marker>
+    <marker
+       id="DistanceX"
+       orient="auto"
+       refX="0.0"
+       refY="0.0"
+       style="overflow:visible">
+      <path
+         d="M 3,-3 L -3,3 M 0,-5 L  0,5"
+         style="stroke:#000000; stroke-width:0.5"
+         id="path991" />
+    </marker>
+    <pattern
+       id="Hatch"
+       patternUnits="userSpaceOnUse"
+       width="8"
+       height="8"
+       x="0"
+       y="0">
+      <path
+         d="M8 4 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path994" />
+      <path
+         d="M6 2 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path996" />
+      <path
+         d="M4 0 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path998" />
+    </pattern>
+    <symbol
+       id="*Model_Space" />
+    <symbol
+       id="*Paper_Space" />
+    <symbol
+       id="*Paper_Space0" />
+    <marker
+       id="DistanceX-4"
+       orient="auto"
+       refX="0.0"
+       refY="0.0"
+       style="overflow:visible">
+      <path
+         d="M 3,-3 L -3,3 M 0,-5 L  0,5"
+         style="stroke:#000000; stroke-width:0.5"
+         id="path1151" />
+    </marker>
+    <pattern
+       id="Hatch-5"
+       patternUnits="userSpaceOnUse"
+       width="8"
+       height="8"
+       x="0"
+       y="0">
+      <path
+         d="M8 4 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path1154" />
+      <path
+         d="M6 2 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path1156" />
+      <path
+         d="M4 0 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path1158" />
+    </pattern>
+    <symbol
+       id="*Model_Space-9" />
+    <symbol
+       id="*Paper_Space-8" />
+    <symbol
+       id="*Paper_Space0-1" />
+  </defs>
+  <g
+     inkscape:label="Print"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline">
+    <g
+       id="g966"
+       transform="matrix(0.02116667,0,0,-0.02116667,190.71148,313.99809)">
+      <g
+         id="g968"
+         clip-path="url(#clipPath972)">
+        <text
+           transform="matrix(1,0,0,-1,1843,13617)"
+           style="font-variant:normal;font-weight:normal;font-size:164.994px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text976"><tspan
+             x="0"
+             y="0"
+             id="tspan974">1</tspan></text>
+      </g>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="cutlines"
+     style="display:inline">
+    <g
+       id="g50792">
+      <text
+         xml:space="preserve"
+         style="font-size:2px;line-height:1;font-family:'Microgramma D Extended';-inkscape-font-specification:'Microgramma D Extended';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;stroke-width:0.264583"
+         x="60.552326"
+         y="80.036461"
+         id="text101487"><tspan
+           sodipodi:role="line"
+           id="tspan101485"
+           style="stroke-width:0.264583"
+           x="60.552326"
+           y="80.036461">*<tspan
+   style="font-size:2.5px"
+   id="tspan103121"> S-Video:</tspan></tspan><tspan
+           sodipodi:role="line"
+           style="font-size:2.5px;stroke-width:0.264583"
+           x="60.552326"
+           y="82.536461"
+           id="tspan101489">for XE and</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:2.5px;stroke-width:0.264583"
+           x="60.552326"
+           y="85.036461"
+           id="tspan101491">modded </tspan><tspan
+           sodipodi:role="line"
+           style="font-size:2.5px;stroke-width:0.264583"
+           x="60.552326"
+           y="87.536461"
+           id="tspan101493">Atari only!</tspan></text>
+      <rect
+         style="display:inline;opacity:0.99;fill:none;fill-opacity:0.992157;stroke:#000000;stroke-width:0.12;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+         id="rect106595"
+         width="18.719271"
+         height="11.641666"
+         x="51.128941"
+         y="77.331879" />
+    </g>
+    <g
+       id="g51790"
+       transform="translate(-43.351855,-0.92604167)"
+       inkscape:export-filename="X:\Projekte\_Eigene\Atari_projects\Label\atari_AV_label.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <g
+         id="g2005"
+         transform="translate(0.65295,-88.80192)">
+        <path
+           d="m 100.68746,127.20002 a 5.0000005,5.0000005 0 1 0 -10.000001,0 5.0000005,5.0000005 0 1 0 10.000001,0 z"
+           style="fill:none;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+           id="path1168" />
+        <path
+           d="m 100.68746,141.20002 a 5.0000005,5.0000005 0 1 0 -10.000001,0 5.0000005,5.0000005 0 1 0 10.000001,0 z"
+           style="fill:none;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+           id="path1170" />
+        <path
+           d="m 114.68746,141.20002 a 5.0000005,5.0000005 0 1 0 -10,0 5.0000005,5.0000005 0 1 0 10,0 z"
+           style="fill:none;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+           id="path1172" />
+        <path
+           d="m 117.18746,127.20002 a 7.5000008,7.5000008 0 1 0 -15,0 7.5000008,7.5000008 0 1 0 15,0 z"
+           style="fill:none;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+           id="path1174" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m 86.887452,158.19998 c 5e-6,1.54644 1.253608,2.80004 2.800043,2.80004 h 26.999975 c 1.54639,0 2.79999,-1.2536 2.80004,-2.80004 v -36.99994 c -5e-5,-1.54642 -1.25365,-2.80002 -2.80004,-2.80004 H 89.687495 c -1.54759,2e-5 -2.801671,1.25543 -2.800041,2.80298 z"
+           id="path1180"
+           sodipodi:nodetypes="ccccccccc" />
+      </g>
+      <g
+         id="g51757">
+        <g
+           id="g95604-4"
+           transform="translate(43.328918)">
+          <text
+             xml:space="preserve"
+             style="font-size:2px;line-height:1;font-family:'Microgramma D Extended';-inkscape-font-specification:'Microgramma D Extended';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.264583"
+             x="53.005573"
+             y="31.849218"
+             id="text19266-3"><tspan
+               sodipodi:role="line"
+               id="tspan19264-5"
+               style="font-size:2px;stroke-width:0.264583"
+               x="53.005573"
+               y="31.849218">AUDIO L</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:2px;line-height:1;font-family:'Microgramma D Extended';-inkscape-font-specification:'Microgramma D Extended';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.264583"
+             x="53.03857"
+             y="60.22578"
+             id="text27028-2"><tspan
+               sodipodi:role="line"
+               id="tspan27026-2"
+               style="font-size:2px;stroke-width:0.264583"
+               x="53.03857"
+               y="60.22578">AUDIO R</tspan></text>
+          <g
+             id="g88348-6">
+            <text
+               xml:space="preserve"
+               style="font-size:2px;line-height:1;font-family:'Microgramma D Extended';-inkscape-font-specification:'Microgramma D Extended';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.264583"
+               x="66.98391"
+               y="60.22578"
+               id="text33434-9"><tspan
+                 sodipodi:role="line"
+                 id="tspan33432-9"
+                 style="font-size:2px;stroke-width:0.264583"
+                 x="66.98391"
+                 y="60.22578">COMPOSITE</tspan></text>
+            <text
+               xml:space="preserve"
+               style="font-size:2.00001px;line-height:1;font-family:'Microgramma D Extended';-inkscape-font-specification:'Microgramma D Extended';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.264583"
+               x="67.057907"
+               y="61.978645"
+               id="text71878-2"><tspan
+                 sodipodi:role="line"
+                 id="tspan71876-1"
+                 style="font-size:2.00001px;stroke-width:0.264583"
+                 x="67.057907"
+                 y="61.978645">VIDEO</tspan></text>
+          </g>
+          <text
+             xml:space="preserve"
+             style="font-size:5px;line-height:1;font-family:'Microgramma D Extended';-inkscape-font-specification:'Microgramma D Extended';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.264583"
+             x="73.4589"
+             y="33.894718"
+             id="text80220-2"><tspan
+               sodipodi:role="line"
+               id="tspan80218-9"
+               style="font-size:5px;stroke-width:0.264583"
+               x="73.4589"
+               y="33.894718">*</tspan></text>
+        </g>
+        <g
+           id="g51731">
+          <text
+             xml:space="preserve"
+             style="font-size:2.30363px;line-height:1;font-family:'Microgramma D Extended';-inkscape-font-specification:'Microgramma D Extended';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;stroke-width:0.264583"
+             x="95.434593"
+             y="70.141655"
+             id="text90512-5"><tspan
+               sodipodi:role="line"
+               id="tspan90510-9"
+               style="text-align:start;text-anchor:start;stroke-width:0.264583"
+               x="95.434593"
+               y="70.141655">A/V-Adapter</tspan></text>
+          <g
+             id="g51718">
+            <rect
+               x="96.233368"
+               y="63.069599"
+               class="st3"
+               width="0.53264797"
+               height="4.5494981"
+               id="rect103"
+               style="stroke-width:0.264583" />
+            <path
+               class="st3"
+               d="m 93.936625,67.623984 h 0.08796 c 1.128823,-0.02932 2.032859,-1.17769 2.032859,-2.58994 v -1.964445 h -0.351841 v 1.33895 c 0,1.299857 -0.767209,2.374926 -1.768978,2.56062 z"
+               id="path105"
+               style="stroke-width:0.264583" />
+            <path
+               class="st3"
+               d="m 99.067638,67.623984 h -0.08796 c -1.128822,-0.02932 -2.032858,-1.17769 -2.032858,-2.58994 v -1.964445 h 0.351841 v 1.33895 c 0,1.299857 0.767209,2.374926 1.768978,2.56062 z"
+               id="path107"
+               style="stroke-width:0.264583" />
+            <path
+               class="st4"
+               d="m 101.98498,65.942966 -0.39582,-1.954671 -0.4398,1.954671 z m 1.5051,1.695678 h -0.99199 l -0.24434,-0.860056 h -1.34383 l -0.259,0.860056 h -0.996881 l 1.241221,-4.007077 c 0.0489,-0.156374 0.12705,-0.283427 0.23456,-0.390934 0.12216,-0.11728 0.26388,-0.175921 0.42514,-0.175921 0.17592,0 0.33718,0.06353 0.47889,0.185694 0.12217,0.112394 0.21013,0.254108 0.26388,0.425141 z"
+               id="path111"
+               style="fill:#000080;stroke-width:0.264583" />
+            <path
+               id="polygon113"
+               class="st4"
+               d="m 103.92011,63.954088 h -0.87472 v -0.855169 h 2.717 v 0.855169 h -0.86494 v 3.708989 h -0.97734 z"
+               style="fill:#000080;stroke-width:0.264583" />
+            <path
+               class="st4"
+               d="m 107.67308,65.942966 -0.39582,-1.954671 -0.4398,1.954671 z m 1.5051,1.695678 h -0.992 l -0.24433,-0.860056 h -1.33895 l -0.259,0.860056 h -0.99199 l 1.24121,-4.007077 c 0.0489,-0.156374 0.12706,-0.283427 0.22968,-0.390934 0.12216,-0.11728 0.26388,-0.175921 0.42514,-0.175921 0.17592,0 0.33718,0.06353 0.47889,0.185694 0.12217,0.112394 0.21013,0.254108 0.26388,0.425141 z"
+               id="path115"
+               style="fill:#000080;stroke-width:0.264583" />
+            <path
+               class="st4"
+               d="m 112.59396,67.653304 h -1.12882 l -0.99688,-1.852051 c -0.044,-0.08796 -0.0831,-0.166148 -0.10751,-0.234561 -0.0293,-0.06841 -0.044,-0.122167 -0.044,-0.16126 0,-0.200354 0.15638,-0.361615 0.47401,-0.488668 0.31763,-0.127054 0.47401,-0.283428 0.47401,-0.474008 0,-0.11728 -0.044,-0.229674 -0.13683,-0.342068 -0.0928,-0.112393 -0.19058,-0.166147 -0.2932,-0.166147 h -0.55708 v 3.708989 h -0.94313 v -3.953323 c 0,-0.136827 0.0635,-0.273654 0.19058,-0.400707 0.12705,-0.127054 0.25411,-0.195467 0.38605,-0.195467 h 0.94801 c 0.3665,0 0.68903,0.127053 0.96268,0.386047 0.27365,0.258994 0.41048,0.557082 0.41048,0.899149 0,0.273654 -0.0831,0.508215 -0.25411,0.713455 -0.1466,0.175921 -0.35672,0.327408 -0.63038,0.454461 z"
+               id="path117"
+               style="fill:#000080;stroke-width:0.264583" />
+            <path
+               id="rect119"
+               class="st4"
+               d="m 112.71613,63.089146 h 0.98223 v 4.569044 h -0.98223 z"
+               style="fill:#000080;stroke-width:0.264583" />
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
